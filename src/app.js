@@ -1,7 +1,8 @@
 import React from 'react';
 
 function App(){
-  return (<h1>Meu primeiro Component Reactjs!!!</h1>)
+  const a = <h1>Meu primeiro Component Reactjs!!!</h1>;
+  return ( a );
 }
 
 export default App;
